@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RagPoc.Eval": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\POCs\\rag-poc\\eval\\questions.json"
+    }
+  }
+}

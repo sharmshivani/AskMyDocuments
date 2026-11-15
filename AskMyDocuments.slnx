@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RagPoc.Api/AskMyDocuments.Api.csproj" />
+    <Project Path="src/RagPoc.Core/AskMyDocuments.Core.csproj" />
+    <Project Path="src/RagPoc.Eval/AskMyDocuments.Eval.csproj" />
+    <Project Path="src/RagPoc.Ingest/AskMyDocuments.Ingest.csproj" />
+  </Folder>
+</Solution>

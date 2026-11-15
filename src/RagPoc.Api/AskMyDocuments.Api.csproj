@@ -1,0 +1,5 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\RagPoc.Core\AskMyDocuments.Core.csproj" />
+  </ItemGroup>
+</Project>

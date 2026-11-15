@@ -1,0 +1,10 @@
+[
+  { "question": "How long is a transfer value quotation valid for?", "expectedSource": "transfer-out-policy.md" },
+  { "question": "What evidence is needed for a transfer above 30,000 pounds?", "expectedSource": "transfer-out-policy.md" },
+  { "question": "Can I retire early at 56 and what reduction applies?", "expectedSource": "retirement-options.md" },
+  { "question": "How much of my pension can I take as a tax-free lump sum?", "expectedSource": "retirement-options.md" },
+  { "question": "What is the death in service benefit?", "expectedSource": "retirement-options.md" },
+  { "question": "How quickly will my complaint be acknowledged?", "expectedSource": "complaints-procedure.md" },
+  { "question": "When can I escalate a complaint to the Pensions Ombudsman?", "expectedSource": "complaints-procedure.md" },
+  { "question": "What is the scheme's policy on cryptocurrency investments?", "expectedSource": null }
+]

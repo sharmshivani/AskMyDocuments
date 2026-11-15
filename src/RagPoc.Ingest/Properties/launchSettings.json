@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RagPoc.Ingest": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\POCs\\rag-poc\\sample-docs"
+    }
+  }
+}
